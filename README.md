@@ -38,11 +38,6 @@ The Twitter US Airline Sentiment [Dataset](https://www.kaggle.com/crowdflower/tw
 * [Flask](http://flask.pocoo.org/) - Web Development Framework
 * [Pandas](https://pandas.pydata.org/) - Data Manipulation and Analysis
 
-# Interface Sample
-
-// ![image](https://user-images.githubusercontent.com/45168689/121368290-65f62c80-c954-11eb-97ff-6c84a9eba73c.png)//
-
-Feel free to give a star to this project if you like and support! Adios
 
  
 
